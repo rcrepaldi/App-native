@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">App native</string>
+    <string name="action_settings">Settings</string>
+    <string name="click_text">clique varias vezes para atualizar a frase</string>
+</resources>
